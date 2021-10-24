@@ -25,7 +25,7 @@
 import NavigatorMenu from '@/components/navigatorMenu/NavigatorMenu';
 
 export default {
-  name: 'App',
+  name: 'Teta',
   components: {
     NavigatorMenu
   },
