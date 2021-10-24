@@ -57,7 +57,7 @@ export default {
 .pokedex-container {
     height: 50vh;
     width: 60vw;
-    background: red;
+    background: blue;
     margin: 2vh;
     padding: 5vh 0vw;
     border-style: solid;
